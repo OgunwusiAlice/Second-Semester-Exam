@@ -1,0 +1,8 @@
+.counter {
+  margin: auto;
+  width: 50%;
+}
+.counter_box {
+  display: flex;
+  flex-direction: column;
+}
