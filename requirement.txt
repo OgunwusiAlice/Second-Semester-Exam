@@ -1,0 +1,4 @@
+1. I used the lastest version of react which is react 18.2.0 
+2. Also used react-router-dom version 6.17.0 for my page routing 
+3. I used bootstrap version 4.1.1 for my styling and added custom styles when necessary.
+4. I implemeted my counter feature with React Hooks(useState)
