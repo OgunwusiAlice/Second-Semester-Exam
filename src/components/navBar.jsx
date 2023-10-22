@@ -27,7 +27,7 @@ const NavBar = () => {
             <NavLink className="nav-item nav-link active" to="/">
               home
             </NavLink>
-            <NavLink className="nav-item nav-link" to="/Counter">
+            <NavLink className="nav-item nav-link active" to="/Counter">
               counter
             </NavLink>
             <NavLink className="nav-item nav-link" to="/TestErrorBoundry">
