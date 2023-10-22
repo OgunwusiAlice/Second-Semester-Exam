@@ -1,0 +1,12 @@
+.test-error {
+  display: flex;
+  justify-content: center;
+}
+.test-error input {
+  width: 50%;
+  margin: 20px;
+  padding: 20px;
+  font-size: 1.2rem;
+  font-weight: medium;
+  border-radius: 10px;
+}

@@ -6,7 +6,7 @@ const NavBar = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
-          MONI
+          ALICIA
         </Link>
         <button
           className="navbar-toggler"
@@ -30,7 +30,7 @@ const NavBar = () => {
             <NavLink className="nav-item nav-link active" to="/Counter">
               counter
             </NavLink>
-            <NavLink className="nav-item nav-link" to="/TestErrorBoundry">
+            <NavLink className="nav-item nav-link" to="/test_error_boundary">
               Test Error Boundry
             </NavLink>
           </div>
